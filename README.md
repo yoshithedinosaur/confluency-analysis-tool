@@ -1,4 +1,8 @@
 # **Confluency Tool v0.82**
+This project was created for iGEM IPRO Fall 2022 at the Illinois Institute of Technology.
+
+The purpose of this code is to streamline the analysis of growth curves.
+
 **Current features:**
   - Batch analysis of image sets in directory
   - Progress indicator
